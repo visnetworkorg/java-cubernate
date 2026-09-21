@@ -6,7 +6,7 @@
 [![Maven Central](https://img.shields.io/maven-central/v/io.kubernetes/client-java.svg?label=Maven%20Central)](https://search.maven.org/search?q=g:%22io.kubernetes%22%20AND%20a:%22client-java%22)
 ![Sonatype Nexus (Snapshots)](https://img.shields.io/nexus/s/io.kubernetes/client-java?label=Maven%20Snapshot&server=https%3A%2F%2Foss.sonatype.org)
 
-Java client for the [kubernetes](https://kubernetes.io/) API.
+Java client for the [Kubernetes](https://kubernetes.io/) API.
 
 ## To start using Kubernetes Java Client
 
