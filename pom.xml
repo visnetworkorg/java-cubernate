@@ -6,7 +6,7 @@
   <packaging>pom</packaging>
   <name>Kubernetes Client API</name>
   <url>https://github.com/kubernetes-client/java</url>
-  <description>Kubernetes Client Library</description>
+  <description>Java client library for the Kubernetes API</description>
 
   <modules>
     <!-- These modules are not released -->  
