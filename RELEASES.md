@@ -10,7 +10,7 @@ Releases are done on an as-needed basis, and this doc applies only to
 This does _not_ describe the process of cherry-picking changes onto release
 branches.
 
-## Release via Github Action
+## Release via Github Action the point
 
 Maintainers meet the following requirements will be able to perform automated
 release to maven central via Github Action job named "Maven Release":
